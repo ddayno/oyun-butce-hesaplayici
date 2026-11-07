@@ -38,5 +38,5 @@ The application displays the estimated project cost in the terminal and saves th
 Each new calculation replaces the previous report.
 
 ## Screenshots
-
+![Program Screenshot](program-ekrani.png)
 Screenshots of the application will be added here.
