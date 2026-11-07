@@ -1,0 +1,7 @@
+OYUN GELISTIRME BUTCE RAPORU
+-------------------------
+Calisan sayisi: 5
+Aylik maas: 2000
+Gelistirme suresi: 6
+Toplam maliyet: 60000
+Proje butcesi: 60000
